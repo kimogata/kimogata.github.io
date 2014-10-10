@@ -1,0 +1,20 @@
+*{
+    outline: #ff0000 1px solid;
+}
+
+.title{
+    height: 400px;
+    width: 500px;
+    margin: auto;
+    font-size: 24px;
+    white-space: nowrap;
+    text-align: center;
+    background-color: purple;
+}
+
+.checkboxes{
+    height: 500px;
+    width: 600px;
+    margin-left: 175px
+    background-color: yellow;
+}
